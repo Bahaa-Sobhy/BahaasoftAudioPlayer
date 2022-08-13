@@ -30,4 +30,4 @@ Bahaasoft Audio Player JavaScript plugin<br>
 
 
 
-# [Watch live demmo](http://bahaasoft.bahaa-sobhy.com/plugins/javascript/Bahaasoft_audio_player/)
+# [Watch live demo](http://bahaasoft.bahaa-sobhy.com/plugins/javascript/Bahaasoft_audio_player/)
