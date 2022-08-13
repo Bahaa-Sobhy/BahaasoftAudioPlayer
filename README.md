@@ -11,7 +11,7 @@ Bahaasoft Audio Player JavaScript plugin<br>
 <br>
 **Bahaasoft Audio Player** comes with two default themes for light and dark mode.
 <br>
-**Bahaasoft Audio Player** will make you say "Goodbye" to the traditional <audio> element.
+**Bahaasoft Audio Player** will make you say "Goodbye" to the traditional `<audio>` element.
 <br>
 **Bahaasoft Audio Player** is totally **FREE** to use.
 <br>
