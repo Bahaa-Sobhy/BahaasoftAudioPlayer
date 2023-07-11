@@ -16,7 +16,7 @@ Bahaasoft Audio Player JavaScript plugin<br>
 **Bahaasoft Audio Player** is totally **FREE** to use.
 <br>
 <br>
-![Bahaasoft Audio Player](https://Bahaasoft.Bahaa-Sobhy.com/plugins/javascript/Bahaasoft_audio_player/imgs/Bahaasoft_Audio_Player_1600_x_1600px.jpg)
+![Bahaasoft Audio Player](https://bahaasoft.bahaa-sobhy.com/plugins/javascript/Bahaasoft_audio_player/imgs/Bahaasoft_Audio_Player_1600_x_1600px.jpg)
 <br>
 
 
